@@ -12,4 +12,4 @@ Designed to satisfy a [badge requirement](https://github.com/devmountain/react-a
 
 ## But what does it look like?
 
-[The Final Product](https://github.com/kale-stew/static-todo-list/blob/master/src/todo.gif)
+![The Final Product](https://github.com/kale-stew/static-todo-list/blob/master/src/todo.gif)
