@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './styles/Todo.css';
+import './styles/todo.css';
 
 export default class Todo extends Component {
     constructor(){

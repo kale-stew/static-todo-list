@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './styles/List.css';
-import Todo from './Todo';
+import './styles/list.css';
+import Todo from './todo';
 
 class List extends Component {
   constructor(){
