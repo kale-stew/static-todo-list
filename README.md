@@ -2,15 +2,17 @@
 
 ## Live Version --> [here!](https://simple-todo.now.sh/)
 
-## Overview:
-Designed to satisfy a [badge requirement](https://github.com/devmountain/react-assessment) during my time at DevMountain. 
+## Overview
 
-## Features:
-- Add a new item to your list
-- Check out my defaults for inspiration
-- 'Complete' the task when you're done
-- Delete items from your list
-- Made in React
+Designed to satisfy a [badge requirement](https://github.com/devmountain/react-assessment) during my time at DevMountain.
+
+## Features
+
+* Add a new item to your list
+* Check out my defaults for inspiration
+* 'Complete' the task when you're done
+* Delete items from your list
+* Made in React
 
 ## But what does it look like?
 

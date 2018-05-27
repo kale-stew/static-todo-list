@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import List from './components/List';
+import React, { Component } from "react";
+import List from "./components/List";
 
 class App extends Component {
   render() {
-    return(
+    return (
       <div>
         <List />
       </div>
-    )
+    );
   }
 }
 
